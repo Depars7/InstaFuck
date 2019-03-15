@@ -9,7 +9,7 @@
 
 ### apt-get install tor
 
-### git clone https://github.com/Ha3MrX/InstaBrute
+### git clone https://github.com/Depars7/InstaFuck
 
 ### cd InstaFuck
 
