@@ -20,4 +20,4 @@
 
 ### YouTube Channel
 
-### https://www.youtube.com/deparsbomber_
+### https://www.youtube.com/channel/UCIwIAyBGpCrE0zXXGkKPABA?sub_confirmation=1
